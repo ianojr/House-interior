@@ -97,3 +97,9 @@ button:hover span{
 button:hover{
     border: none;
 }
+.sign_off{
+    position: absolute;
+    bottom: 0;
+    left: 5px;
+    color: #fff;
+}
